@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">P08 quiz</string>
+    <string-array name ="spinnerItems">
+        <item>W57J</item>
+        <item>W57K</item>
+        <item>W57F</item>
+        <item>W57A</item>
+    </string-array>
+</resources>
